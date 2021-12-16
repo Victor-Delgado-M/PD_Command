@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Vic-Music\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Vic-Music\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\Vic-Music\source\repos\Command_EJ\Command_EJ\bin\Debug\net5.0\Command_EJ.exe
+C:\Users\Vic-Music\source\repos\Command_EJ\Command_EJ\bin\Debug\net5.0\Command_EJ.deps.json
+C:\Users\Vic-Music\source\repos\Command_EJ\Command_EJ\bin\Debug\net5.0\Command_EJ.runtimeconfig.json
+C:\Users\Vic-Music\source\repos\Command_EJ\Command_EJ\bin\Debug\net5.0\Command_EJ.runtimeconfig.dev.json
+C:\Users\Vic-Music\source\repos\Command_EJ\Command_EJ\bin\Debug\net5.0\Command_EJ.dll
+C:\Users\Vic-Music\source\repos\Command_EJ\Command_EJ\bin\Debug\net5.0\ref\Command_EJ.dll
+C:\Users\Vic-Music\source\repos\Command_EJ\Command_EJ\bin\Debug\net5.0\Command_EJ.pdb
+C:\Users\Vic-Music\source\repos\Command_EJ\Command_EJ\obj\Debug\net5.0\Command_EJ.csproj.AssemblyReference.cache
+C:\Users\Vic-Music\source\repos\Command_EJ\Command_EJ\obj\Debug\net5.0\Command_EJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vic-Music\source\repos\Command_EJ\Command_EJ\obj\Debug\net5.0\Command_EJ.AssemblyInfoInputs.cache
+C:\Users\Vic-Music\source\repos\Command_EJ\Command_EJ\obj\Debug\net5.0\Command_EJ.AssemblyInfo.cs
+C:\Users\Vic-Music\source\repos\Command_EJ\Command_EJ\obj\Debug\net5.0\Command_EJ.csproj.CoreCompileInputs.cache
+C:\Users\Vic-Music\source\repos\Command_EJ\Command_EJ\obj\Debug\net5.0\Command_EJ.dll
+C:\Users\Vic-Music\source\repos\Command_EJ\Command_EJ\obj\Debug\net5.0\ref\Command_EJ.dll
+C:\Users\Vic-Music\source\repos\Command_EJ\Command_EJ\obj\Debug\net5.0\Command_EJ.pdb
+C:\Users\Vic-Music\source\repos\Command_EJ\Command_EJ\obj\Debug\net5.0\Command_EJ.genruntimeconfig.cache
